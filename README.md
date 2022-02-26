@@ -7,7 +7,7 @@
   <li>Learning English and Psychology</li>
   <li>An aerobics enthusiast 🏃🏻 🎾 ⚽</li>
   <li>Wechat: Teletubbies__</li>
-  <li>Blog: <a href="https://jerrysun.io">https://jerrysun.io</a></li>
+  <li>Blog: <a href="https://jerrysun.fun">https://jerrysun.fun</a></li>
 </ul>
 
 
